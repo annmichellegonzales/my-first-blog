@@ -9,7 +9,7 @@ The blog also features timestamps, and the ability to post, read, update, and de
 
 https://tutorial.djangogirls.org/en/
 
-# Deployment
+## Deployment
 
 Deployed using pythonanywhere:
 
